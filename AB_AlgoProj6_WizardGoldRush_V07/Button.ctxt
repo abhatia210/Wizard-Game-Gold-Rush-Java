@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=x_\ y_\ width_\ height_\ text_
+comment1.target=Button(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Button\r\n
+comment2.params=
+comment2.target=boolean\ mouseHoving()
+comment3.params=g2d
+comment3.target=void\ draw(java.awt.Graphics)
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Chest
+comment1.params=coins_\ trapType_\ item_
+comment1.target=Chest(int,\ java.lang.String,\ Item)
+comment2.params=
+comment2.target=boolean\ isClosed()
+comment3.params=
+comment3.target=int\ open()
+comment4.params=
+comment4.target=int\ getCoins()
+comment5.params=
+comment5.target=boolean\ hasContents()
+comment6.params=g2d\ x\ y\ size
+comment6.target=void\ draw(java.awt.Graphics2D,\ int,\ int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DataFiles
+comment1.params=
+comment1.target=void\ loadImages()
+comment2.params=
+comment2.target=DataFiles()
+comment3.params=key
+comment3.target=java.awt.Image\ getImage(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String[][][]\ getGrid()
+comment5.params=
+comment5.target=int[]\ getTicksPerLevel()
+numComments=6

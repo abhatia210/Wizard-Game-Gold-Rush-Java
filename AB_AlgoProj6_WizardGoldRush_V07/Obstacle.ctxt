@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment1.params=type_
+comment1.target=Obstacle(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=java.util.ArrayList\ getNeededItems()
+comment4.params=
+comment4.target=boolean\ isActive()
+comment5.params=
+comment5.target=void\ deactivate()
+comment6.params=wizard\ map\ row\ column
+comment6.target=void\ update(Wizard,\ Square[][],\ int,\ int)
+comment7.params=g2d\ x\ y\ size
+comment7.target=void\ draw(java.awt.Graphics2D,\ int,\ int,\ int)
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=int\ hashCode()
+numComments=11

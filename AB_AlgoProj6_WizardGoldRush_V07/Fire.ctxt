@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fire
+comment1.params=type_\ primary_
+comment1.target=Fire(java.lang.String,\ boolean)
+comment2.params=wizard\ map\ row\ column
+comment2.target=void\ update(Wizard,\ Square[][],\ int,\ int)
+comment3.params=wizard\ map\ row\ column
+comment3.target=void\ spreadFire(Wizard,\ Square[][],\ int,\ int)
+comment4.params=r\ c\ rows\ cols
+comment4.target=boolean\ inBounds(int,\ int,\ int,\ int)
+numComments=5

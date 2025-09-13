@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Wizard1Update
+comment1.params=map\ algor\ specialSquares\ remainingActions\ level_
+comment1.target=java.lang.String\ update(Square[][],\ Wizard,\ java.util.ArrayList,\ int,\ int)
+comment2.params=a\ b\ squares\ start
+comment2.target=int\ compareTo(Square,\ Square,\ Square[][],\ Square)
+comment3.params=a\ b\ squares
+comment3.target=int\ compareMoney(Square,\ Square,\ Square[][])
+comment4.params=squares\ start\ end
+comment4.target=java.util.ArrayList\ getPath(Square[][],\ Square,\ Square)
+numComments=5

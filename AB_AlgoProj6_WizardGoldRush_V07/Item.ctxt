@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=type_
+comment1.target=Item(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=boolean\ isConsumable()
+comment4.params=g2d\ x\ y\ size
+comment4.target=void\ draw(java.awt.Graphics2D,\ int,\ int,\ int)
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=s
+comment6.target=boolean\ equals(java.lang.String)
+comment7.params=
+comment7.target=int\ hashCode()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
